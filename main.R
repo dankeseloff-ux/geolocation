@@ -1,3 +1,5 @@
+# This line ensures the deployment server installs the required mapping tools
+library(raster)
 library(shiny)
 library(leaflet)
 library(sf)
