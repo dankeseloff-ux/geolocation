@@ -1564,7 +1564,7 @@
         "Maintainer": "Edzer Pebesma <edzer.pebesma@uni-muenster.de>",
         "Repository": "RSPM",
         "Date/Publication": "2025-11-28 10:50:02 UTC",
-        "Built": "R 4.5.2; x86_64-pc-linux-gnu; 2026-02-03 04:52:32 UTC; unix",
+        "Built": "R 4.5.2; x86_64-pc-linux-gnu; 2026-02-03 05:50:52 UTC; unix",
         "RemoteType": "standard",
         "RemotePkgRef": "sf",
         "RemoteRef": "sf",
