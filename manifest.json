@@ -7,7 +7,8 @@
     "primary_rmd": null,
     "primary_html": null,
     "content_category": null,
-    "has_parameters": false
+    "has_parameters": false,
+    "primary_doc": "main.R"
   },
   "packages": {
     "DBI": {
